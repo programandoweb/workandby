@@ -13,9 +13,9 @@ const App=()=>{
                     <div className="text-white pt-5 text-intro">
                       <h2 className="mb-0 pt-4"><b>La nube es el pilar de una empresa</b></h2>
                       <h3>que se proyecta en el futuro.</h3>
-                      <div className="btn btn-primary btn-lg mt-4">
+                      <a href="./contactenos" className="btn btn-primary btn-lg mt-4">
                         Contáctenos
-                      </div>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -72,9 +72,9 @@ const App=()=>{
               <div className="col-md-7 ml-auto p-md-5 text-white">
                 <span className="text-azul">✔</span> Disminuye contingencias para que pueda desarrollar todo su potencial.<br/>
                 <span className="text-azul">✔</span> La diferencia entre un consejo trivial y una asesoría integral puede ser muy significativo para tu empresa, y eso se consigue con el conocimiento y la experiencia de potentes equipos multidisciplinarios, que conozcan a fondo todos los aspectos de la parte de Outsourcing. Diseñamos, implementamos y operamos procesos de trabajo de alta calidad en materia de contabilidad, impuestos y finanzas, con el fin de operar en los aspectos más estratégicos del cliente y la posterior toma de decisiones.<br/>
-                <div className="btn btn-primary btn-lg mt-5">
+                <a href="./contactenos" className="btn btn-primary btn-lg mt-5">
                   Contáctenos
-                </div>
+                </a>
                 <div className="card-porcentajes mt-5">
                   <div class="porcentaje"><b>25%</b></div>
                   <div class="texto-porcentajes ml-4">Disminución tiempo de inactividad</div>

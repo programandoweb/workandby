@@ -13,9 +13,9 @@ const App=()=>{
                     <div className="text-white pt-5 intro-movil">
                       <h2 className="mb-0 pt-5"><b>Más que un aplicativo</b></h2>
                       <h3>¡Un asistente para tus negocios!</h3>
-                      <div className="btn btn-primary btn-lg mt-4">
+                      <a href="./contactenos" className="btn btn-primary btn-lg mt-4">
                         Contáctenos
-                      </div>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -35,9 +35,9 @@ const App=()=>{
               <div className="col-md-8 p-md-5 sedes-movil">
                 <div className="text-azul-oscuro">
                   <h2 className="col-md-12"><b>Soluciones innovadoras y dinámicas</b> que nos combierten en la mejor opción de BPO para tus negocios.</h2>
-                  <div className="btn btn-primary btn-lg mt-4">
+                  <a href="./contactenos" className="btn btn-primary btn-lg mt-4">
                     Contáctenos
-                  </div>
+                  </a>
                 </div>
               </div>
               <div className="col-md-4 d-none d-md-block">
